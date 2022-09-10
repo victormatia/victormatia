@@ -1,9 +1,9 @@
 ### E ai, meu povo! Eu me chamo Victor Matias, sejam bem-vindos ao meu perfil!
 
-<div align="center">
+<div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormatia&show_icons=true&bg_color=151a22&border_color=151a22&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormatia&layout=compact&langs_count=7&bg_color=151a22&border_color=151a22"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=victormatia&show_icons=true&bg_color=151a22&border_color=151a22&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormatia&layout=compact&langs_count=7&bg_color=151a22&border_color=151a22"/>
 </div>
   
   ##
