@@ -1,4 +1,6 @@
-### E ai, meu povo! Eu me chamo Victor Matias, sejam bem-vindos ao meu perfil!
+### Hi everyone! ✌️
+
+I'm currently a front end developer <br> but I've been studying docker to start my studies in backend technologies and become a fullstack developer
 
 <div>
   <a href="https://github.com/victormatia">
