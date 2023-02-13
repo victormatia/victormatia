@@ -10,17 +10,20 @@
   
   ##
   ### Skills
-  <div>
-    <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
-    |
-    <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
-    |
-    <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    |
-    <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    |
-    <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    |
-    <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  </div>
+  <section>
+    <section>
+        <h4>Front end</h4>
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
+        |
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
+        |
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+        |
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+        |
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        |
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    </section>
+  </section>
           
