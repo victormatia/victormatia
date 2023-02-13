@@ -26,6 +26,7 @@
     </section>
     <section>
         <h4>Back end stacks</h4>
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
     </section>
   </section>
           
