@@ -1,6 +1,7 @@
 ### Hi everyone! ✌️
 
-I'm currently a front end developer <br> but I've been studying docker to start my studies in backend technologies and become a fullstack developer
+🚀 Full stack developer focused on front end;
+🕒 24 years old;
 
 <div>
   <a href="https://github.com/victormatia">
