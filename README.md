@@ -1,6 +1,6 @@
 ### Hi everyone! ✌️
 
-🚀 Full stack developer focused on front end; <br/> 🕒 I'm 24 years old; <br/> 👨‍💻 Summer student of instruction at trybe
+🚀 Full stack developer focused on front end; <br/> 🕒 I'm 25 years old; <br/>
 
 <div>
   <a href="https://github.com/victormatia">
