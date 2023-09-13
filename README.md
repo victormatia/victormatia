@@ -1,7 +1,3 @@
-<head> 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
-
 ### Hi everyone! ✌️
 
 🚀 Full stack developer focused on front end; <br/> 🕒 I'm 25 years old; <br/>
@@ -24,7 +20,7 @@
         |
         <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         |
-        <i class="devicon-nextjs-plain-wordmark"></i>
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
         |
         <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
         |
