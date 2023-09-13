@@ -20,7 +20,7 @@
         |
         <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         |
-        <img align="center" width="30px" heigth="40px" src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF"></img>
+        <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
         |
         <img align="center" width="30px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
         |
