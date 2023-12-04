@@ -1,6 +1,6 @@
 ### Hi everyone! ✌️
 
-🚀 I'm full stack developer at @consultec-development and Tec Lead plus create of the Home project; <br/> 🕒 I'm 25 years old; <br/>
+🚀 I'm full stack developer at @consultec-development and Tec Lead plus create of the @Home-App-Dev project; <br/> 🕒 I'm 25 years old; <br/>
 
 <div>
   <a href="https://github.com/victormatia">
